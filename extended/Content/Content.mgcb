@@ -1,0 +1,162 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:../../../../.nuget/packages/monogame.extended.content.pipeline/3.8.0/tools/MonoGame.Extended.Content.Pipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo.png;[A]Dirt_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo.tsx;[A]Dirt_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Flower_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Flower_pipo.png;[A]Flower_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Flower_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Flower_pipo.tsx;[A]Flower_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Grass_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Grass_pipo.png;[A]Grass_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Grass_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Grass_pipo.tsx;[A]Grass_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Wall-Up_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Wall-Up_pipo.png;[A]Wall-Up_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Wall-Up_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Wall-Up_pipo.tsx;[A]Wall-Up_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Water_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Water_pipo.png;[A]Water_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Water_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Water_pipo.tsx;[A]Water_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]WaterFall_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]WaterFall_pipo.png;[A]WaterFall_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]WaterFall_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]WaterFall_pipo.tsx;[A]WaterFall_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[Base]BaseChip_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[Base]BaseChip_pipo.png;[Base]BaseChip_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[Base]BaseChip_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[Base]BaseChip_pipo.tsx;[Base]BaseChip_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/LightShadow_pipo.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/LightShadow_pipo.png;LightShadow_pipo.png
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/LightShadow_pipo.tsx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/LightShadow_pipo.tsx;LightShadow_pipo.tsx
+
+#begin ../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/samplemap.tmx
+/importer:
+/processor:
+/build:../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/samplemap.tmx;samplemap.tmx
+
+#begin samplemap.tmx
+/importer:
+/processor:
+/build:samplemap.tmx
+

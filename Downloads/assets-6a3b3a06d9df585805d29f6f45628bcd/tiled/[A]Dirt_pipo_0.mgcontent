@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/emilycullen/Projects/extended/extended/Content/../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo.png</SourceFile>
+  <SourceTime>2019-07-31T08:07:38+01:00</SourceTime>
+  <DestFile>/Users/emilycullen/Projects/extended/extended/Content/bin/DesktopGL/../../../../Downloads/assets-6a3b3a06d9df585805d29f6f45628bcd/tiled/[A]Dirt_pipo_0.xnb</DestFile>
+  <DestTime>2021-04-05T21:41:23.804917+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
